@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+beautifulsoup4
+requests
